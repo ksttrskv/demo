@@ -1,0 +1,7 @@
+telegram:
+  bots:
+    - username: эстетика хрючки предложка 🍳
+      token: ${7683908670:AAEEmZOEmt16_gPN9ClvBXxH2J0aTlLzyFs}
+  moderatorChatId: -1002270329134
+server:
+  port: 8081
