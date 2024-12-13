@@ -24,12 +24,3 @@ class BotConfig {
         return bot
     }
 }
-
-//@Configuration
-//class BotConfig {
-//    @Bean
-//    fun telegramBotsApi(bot: TelegramBot): TelegramBotsApi =
-//        TelegramBotsApi(DefaultBotSession::class.java).apply {
-//            registerBot(bot)
-//        }
-//}
